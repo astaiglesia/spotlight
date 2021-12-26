@@ -1,9 +1,28 @@
-#SPOTLIGHT - under construction!!!
+#SPOTLIGHT 
 
 shining a light on the newest talent and helping you connect, support and spot their work
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
+<hr>
+This project is currently under construction... please be patient
+
+## To-Do
+### MVP
+- desribe dependencies
+- update styling
+- 
+
+
+### Stretch
+- additional connections:
+  - soundcloud
+  - resident advisor
+  - youtube
+  - beatport
+  - ticketmaster
+- ideate updated UI
+  - implement UI update
 
 ## Dependencies
 - axios
