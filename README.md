@@ -1,3 +1,7 @@
+#SPOTLIGHT - under construction!!!
+
+shining a light on the newest talent and helping you connect, support and spot their work
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 
