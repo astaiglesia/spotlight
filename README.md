@@ -7,22 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 <hr>
 This project is currently under construction... please be patient
 
-## To-Do
-### MVP
-- desribe dependencies
-- update styling
-- 
 
-
-### Stretch
-- additional connections:
-  - soundcloud
-  - resident advisor
-  - youtube
-  - beatport
-  - ticketmaster
-- ideate updated UI
-  - implement UI update
 
 ## Dependencies
 - axios
