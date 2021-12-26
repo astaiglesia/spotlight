@@ -9,7 +9,7 @@ import Home from './components/Home';
 
 ReactDOM.render(
   <React.StrictMode>
-    <Home/>
+    {/* <Home/> */}
     Spotlight - shining the light on searchable talent
     {/* <Provider store={store}>
       <App />
