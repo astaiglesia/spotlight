@@ -14,5 +14,4 @@ const Home = (props) => {
   )
 };
 
-export default Home;
-
+export default connect()(Home);
