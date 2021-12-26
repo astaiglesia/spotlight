@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './styles.css';
-import Header from './components/Header';
+import Home from './components/Home';
 // import App from './App';
 // import { store } from './app/store';
 // import { Provider } from 'react-redux';
@@ -9,7 +9,7 @@ import Header from './components/Header';
 
 ReactDOM.render(
   <React.StrictMode>
-    <Header/>
+    <Home/>
     Spotlight - shining the light on searchable talent
     {/* <Provider store={store}>
       <App />
