@@ -4,7 +4,7 @@ import Home from "../components/Home";
 import Redirect from "../components/RedirectPage";
 import Dashboard from "../components/Dashboard";
 import Error404 from "../components/Error404Page";
-import { render } from "@testing-library/react";
+
 
 class AppRouter extends React.Component {
   render() {
