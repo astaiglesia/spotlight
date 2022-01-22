@@ -10,6 +10,9 @@ const Home = (props) => {
     REACT_APP_REDIRECT_URL
   } = process.env;
 
+  // on connect Spotify adds the access_token, token_type and expires_in to redirect URL
+  // access_token is a Bearer token to add to requests to Spotify API 
+  // token expires_in default of 3600s
   const connectToSpotify = () => {
     window.location = `${REACT_APP_AUTHORIZE_URL}?client_id=${REACT_APP_CLIENT_ID}&redirect_uri=${REACT_APP_REDIRECT_URL}&response_type=token&show_dialog=true`;
   };
