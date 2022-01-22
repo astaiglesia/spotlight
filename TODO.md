@@ -28,4 +28,4 @@ Basic react-redux shell is in place
   
 
 - spotify reigstration
-  - Client ID df09ed3a674b40b69df16bce76068359
+  - Client ID in env file
