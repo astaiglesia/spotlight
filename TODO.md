@@ -28,4 +28,5 @@ Basic react-redux shell is in place
   
 
 - spotify reigstration
-  - Client ID in env file
+  - breakdown login handler
+  - how to process env variables without create react 
